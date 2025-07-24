@@ -1,17 +1,17 @@
 # Test webmaster
-Test technique pour le recrutement d'un webmaster pour Médiameeting
+Test technique pour le recrutement d'un webmaster pour Mediameeting
 
-## Détail du test
+## Détails du test
 Télécharger le code source de ce repo et travailler en local dessus.
 
 Les résultats des exercices seront à envoyer par mail, en format compressé, à digital@mediameeting.fr
 
-+ Ne pas hésiter à réutiliser les composants déjà présent dans l'application (même ceux commenter)
-+ Ne pas oubliez de bien regarder les documations
++ Ne pas hésiter à réutiliser les composants déjà présents dans l'application (même ceux commentés)
++ Ne pas oublier de bien regarder les documations
 + Une connaissance parfaite et des résultats parfaits ne sont pas attendus pour valider le test.
 
 ### Exercice 1 (maquettage)
-En suivant le brief et la charte graphique disponibles dans le dossier exercice 1 (brief_pepito.txt, guide-de-marque.pdf) réaliser la maquette d’une page de présentation de Radio Pepito. (Peu importe le logiciel, Adobe XD, Figma, Paint...)
+En suivant le brief et la charte graphique disponibles dans le dossier _exercice 1_ (brief_pepito.txt, guide-de-marque.pdf), réalisez la maquette d’une page de présentation de Radio Pepito. (Vous êtes libre d'utiliser le logiciel de votre choix : Adobe XD, Figma, Paint...)
 ### Exercice 2 (conception)
 Concevez et créez une bannière sur la page principale de l'application qui permettra de mettre en avant un jeu concours. 
 
@@ -20,15 +20,14 @@ Contenu :
 
 >Call to action (qui ouvre une modale de commentaires) 
 ### Exercice 3 (intégration)
-Intégrer la maquette du bloc (bloc.png), disponible dans le dossier exercice 3, dans la page principale de l'application.
+Intégrez la maquette du bloc (bloc.png), disponible dans le dossier _exercice 3_, dans la page principale de l'application.
 
 ### Exercice 4 (algorithmique)
-L'exercice d'algorithimie se trouve entièrement dans le fichier chess.js, dans le dossier exercice 4.
+L'exercice d'algorithimie se trouve entièrement dans le fichier chess.js, dans le dossier _exercice 4_.
 
-## Documentation et élément requis
+## Documentation et éléments requis
 #### Eléments requis
 - Node JS, peu importe la version (pour lancer `npm`, le gestionnaire de packages) : https://nodejs.org/en
-
 - Télécharger le projet
 
 #### Documentation
@@ -41,7 +40,7 @@ L'exercice d'algorithimie se trouve entièrement dans le fichier chess.js, dans 
 npm install
 ```
 
-### Compilation et lancement pour le developpement
+### Compilation et lancement pour le développement
 ```
 npm run serve
 ```
